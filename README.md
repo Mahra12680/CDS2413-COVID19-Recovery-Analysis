@@ -34,3 +34,8 @@ Open `D1.ipynb` or `D2.ipynb` and run all cells. Both notebooks read `covid.csv`
 ## Team members
 
 - Mahra
+## Key results
+- Regression: best model Lasso, R2 close to 0 (no predictive signal).
+- Classification: best model SVM, macro F1 = 0.498 (close to chance).
+- Clustering: K-means with k = 4 (silhouette 0.406).
+
