@@ -31,3 +31,6 @@ jupyter notebook
 
 Open `D1.ipynb` or `D2.ipynb` and run all cells. Both notebooks read `covid.csv` from the
 `notebooks` folder and use `random_state = 42`, so the results are reproducible.
+## Team members
+
+- Mahra
